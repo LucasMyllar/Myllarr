@@ -6,7 +6,7 @@
 
 **Desenvolvedor Web dedicado a construir aplicações web modernas, escaláveis e de alto desempenho.  
 Acredito que cada linha de código é uma oportunidade de transformar ideias em soluções reais.
-Atualmente curso Análise e Desenvolvimento de Sistema e aprendo mais a cada dia.**
+Atualmente curso Análise e Desenvolvimento de Sistema e aprendendo mais a cada dia.**
 
 ---
 
